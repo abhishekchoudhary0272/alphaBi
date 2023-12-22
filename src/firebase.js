@@ -8,14 +8,15 @@ import 'firebase/compat/auth';
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAznBk_8Xx_fHAkhbvsAZ7pG-Vkq10dUYg",
-  authDomain: "alphabi-c7aaa.firebaseapp.com",
-  projectId: "alphabi-c7aaa",
-  storageBucket: "alphabi-c7aaa.appspot.com",
-  messagingSenderId: "1099454230677",
-  appId: "1:1099454230677:web:1c669649fd7cda0201ab9c",
-  measurementId: "G-Q0L9V176WV"
+  apiKey: "AIzaSyCBl5_UAdx-X9dgIfQ2eMyabuylBwa0G-o",
+  authDomain: "alphabi-c6185.firebaseapp.com",
+  projectId: "alphabi-c6185",
+  storageBucket: "alphabi-c6185.appspot.com",
+  messagingSenderId: "166725851923",
+  appId: "1:166725851923:web:2dbd753e5a2005354718e6"
+
 };
+
 
 // Initialize Firebase
 // const app = initializeApp(firebaseConfig);
