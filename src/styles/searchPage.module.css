@@ -1,0 +1,15 @@
+/* styles/Home.module.css */
+.container {
+	display: flex;
+	flex-direction: column;
+	/* align-items: center; */
+	/* Horizontally center contents */
+	justify-content: center;
+	/* Vertically center contents */
+	min-height: 100vh;
+	/* Full viewport height */
+	padding: 0 20px;
+	/* Adjust padding as needed */
+	text-align: center;
+	/* Center-align text */
+}
